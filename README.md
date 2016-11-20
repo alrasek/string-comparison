@@ -1,5 +1,5 @@
 # string-comparison
-Comparing old and new versions of String. Resulkt is one string with highlighted by tag things which changes.
+Comparing old and new versions of String. Result is a string with highlighted by tag words which have changed.
 Methods:
 * **getComparisonString** : 
    Returns result string which combines old value with highlighted added and deleted words.
