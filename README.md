@@ -1,4 +1,4 @@
-# string-comparison
+# string-version-comparison
 Comparing old and new versions of String. Result is a string with highlighted by tag words which have changed.
 Methods:
 * **getComparisonString** : 
