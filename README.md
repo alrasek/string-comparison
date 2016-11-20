@@ -1,2 +1,2 @@
 # string-comparison
-Compared old and ndew version of String
+Comparing old and new versions of String. Resulkt is one string with highlighted by tag things which changes.
